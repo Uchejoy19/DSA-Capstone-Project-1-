@@ -9,6 +9,5 @@ This project aims at providing data-driven insights into the performance of Kult
 ### Data source
 The primary source of data for this project is a Microsoft Excel spreadsheet provided by the KMS Business Manager. The file contains detailed historical order data from 2009 to 2012 and includes the following types of information from Order details, Returns data and Customer information
 
-
-
 ### Tools used
+SQL
