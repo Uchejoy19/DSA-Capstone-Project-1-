@@ -36,7 +36,7 @@ The primary source of data for this project is a Microsoft Excel spreadsheet pro
 
 ### Case Scenario II
 
-####Most Valuable Customers & Their Purchases
+#### Most Valuable Customers & Their Purchases
    - Customers that often buy *Technology* and *Office Supplies*
 
 #### Top Small Business Customer by Sales
@@ -62,8 +62,7 @@ The primary source of data for this project is a Microsoft Excel spreadsheet pro
    - Reduce shipping cost for the goods that are not urgent
    - Improve delivery performance for urgent orders by ensuring they are always shipped using metered means.
 
-    ### Recommendation:
-    - Align shipping methods with order priority to reduce costs.
-    - Automated shipping rules should be implemented in the order processing system to enforce the right method based on priority.
+#### Recommendation:
+    - Align shipping methods with order priority to reduce costs. Automated shipping rules should be implemented in the order processing system to enforce the right method.
 
 
